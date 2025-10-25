@@ -1,0 +1,67 @@
+{
+  "quizzes": [
+    {
+      "id": "general-knowledge",
+      "title": "General Knowledge",
+      "description": "Test your knowledge on various topics",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "What is the capital of France?",
+          "options": ["London", "Berlin", "Paris", "Madrid"],
+          "correctAnswer": 2,
+          "category": "Geography"
+        },
+        {
+          "id": "q2",
+          "question": "Which planet is known as the Red Planet?",
+          "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+          "correctAnswer": 1,
+          "category": "Science"
+        },
+        {
+          "id": "q3",
+          "question": "Who wrote 'Romeo and Juliet'?",
+          "options": ["Jane Austen", "William Shakespeare", "Mark Twain", "Charles Dickens"],
+          "correctAnswer": 1,
+          "category": "Literature"
+        },
+        {
+          "id": "q4",
+          "question": "What is the largest ocean on Earth?",
+          "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+          "correctAnswer": 3,
+          "category": "Geography"
+        },
+        {
+          "id": "q5",
+          "question": "In what year did the Titanic sink?",
+          "options": ["1912", "1920", "1905", "1915"],
+          "correctAnswer": 0,
+          "category": "History"
+        },
+        {
+          "id": "q6",
+          "question": "What is the chemical symbol for Gold?",
+          "options": ["Go", "Gd", "Au", "Ag"],
+          "correctAnswer": 2,
+          "category": "Science"
+        },
+        {
+          "id": "q7",
+          "question": "Which country is home to the kangaroo?",
+          "options": ["New Zealand", "Australia", "South Africa", "Brazil"],
+          "correctAnswer": 1,
+          "category": "Geography"
+        },
+        {
+          "id": "q8",
+          "question": "What is the smallest prime number?",
+          "options": ["0", "1", "2", "3"],
+          "correctAnswer": 2,
+          "category": "Mathematics"
+        }
+      ]
+    }
+  ]
+}
